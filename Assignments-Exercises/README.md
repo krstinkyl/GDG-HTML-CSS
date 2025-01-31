@@ -1,0 +1,1 @@
+[![My Hobby](Assets\Images\hobby-image.jpg)](https://example.com/more-info)
